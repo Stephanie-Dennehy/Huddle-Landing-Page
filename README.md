@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Stephanie-Dennehy/Huddle-Landing-Page)
+- Live Site URL: (https://stephanie-dennehy.github.io/Huddle-Landing-Page/)
 
 ## My process
 
@@ -45,6 +45,3 @@ I used flexbox to get the layout right for this page. I also used some absolute 
 
 - Frontend Mentor - [@Stephanie-Dennehy] https://www.frontendmentor.io/profile/Stephanie-Dennehy
 - Twitter - [@Steph_Dennehy]https://twitter.com/Steph_Dennehy
-
-
-# Huddle-Landing-Page-section
